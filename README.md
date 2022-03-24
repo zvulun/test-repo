@@ -1,2 +1,2 @@
 # Heading
-Initial commit text
+Initial commit text (added text - first edit)
